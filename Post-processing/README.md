@@ -8,6 +8,7 @@ Program za animaciju 2-D polja koncentracije polutanata i prikaz LE domene.
 Domena je određena ulaznim podacima kao što su emisije, meteorologija itd. Osnovni run LE korsti MACC domenu.
 
 *Tablica domene ulaznih podataka*  
+
 Ulazni podaci |	Naziv |	Lon [°] |	Lat [°] |	Rezolucija (lon x lat) [°]
 --- | --- | --- | --- | ---
 Emisije |	MAC-II (SNAP) |	-30,60 |	30,72 |	0.125 x 0.0625
